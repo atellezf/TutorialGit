@@ -1,7 +1,5 @@
 package edu.utel.tutorial;
 
-// Alejandro, agregué este comentario para que lo borres
-
 public record Persona(String nombre, String apellidos) {
     @Override
     public String toString() {
